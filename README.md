@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewkris
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning C# + Unity
+- 🌱 I’m currently learning Vue.js and dabbling in C# + Unity
 
 <!---
 matthewkris/matthewkris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
